@@ -1,4 +1,4 @@
 
-def add():
+def add(a, b):
   # add two int values
-  return 10 + 20
+  return a + b
